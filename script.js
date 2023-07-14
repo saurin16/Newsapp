@@ -1,5 +1,5 @@
-const API_KEY = "1127cd4056mshef4c54731785e80p156633jsn71e1bf92b826";
-const url = "https://cnbc.p.rapidapi.com/";
+const API_KEY = "597352bd32984a05938bcbd79eee88fa";
+const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("India"));
 
